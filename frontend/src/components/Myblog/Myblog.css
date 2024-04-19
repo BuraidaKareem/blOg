@@ -1,0 +1,10 @@
+.table{
+
+    background-color: lightcyan;
+    color: darkolivegreen;
+    border: 1px solid darkolivegreen;
+}
+th,td{
+border: 1px solid darkolivegreen;
+
+}
